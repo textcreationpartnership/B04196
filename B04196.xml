@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love and honour: or, The lovers farewel to Calista: being sent from sea in the late engagement against the Dutch, to his mistress, under the name of Calista. To which is added, the lady's deploring and ingenious answer. To the tune of, Now the tyrant hath stolen, &amp;.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04196</idno>
+            <idno type="STC">Wing L3200</idno>
+            <idno type="EEBO-CITATION">99887805</idno>
+            <idno type="PROQUEST">ocm99887805</idno>
+            <idno type="VID">183468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183468)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[259a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love and honour: or, The lovers farewel to Calista: being sent from sea in the late engagement against the Dutch, to his mistress, under the name of Calista. To which is added, the lady's deploring and ingenious answer. To the tune of, Now the tyrant hath stolen, &amp;.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>printed for W.O. for J. Foster, at the Golden Bal in Pye-corner.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "Farewel my Calista, my joy and my grief ..."</note>
+                  <note>Printed on verso: Mirth for citizens (Wing M2043).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183468:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>Mirth for Citizens: <hi>Or,</hi> A Comedy for the Country.</head>
+            <argument>
+               <p>Shewing</p>
+               <lg>
+                  <l>A young Farmer his unfortunate marriage,</l>
+                  <l>His wife is ſo churliſh &amp; curriſh in carriage</l>
+                  <l>He married her for beauty, for's own delight</l>
+                  <l>Now he repents it both day and night.</l>
+               </lg>
+               <lg>
+                  <l>By phyſiognomy adviſeth youngmen that at <hi>Wenches skip,</hi>
+                  </l>
+                  <l>To be ſure to look before that they leap,</l>
+                  <l>To leap at a venture, &amp; catch a fall,</l>
+                  <l>Raiſing the forehead breaks horns and all.</l>
+               </lg>
+            </argument>
+            <opener>Tune of, <hi>Ragged, torn, and true.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>HEy boys my Fathers dead,</l>
+               <l>and what uſed I to fear,</l>
+               <l>With gold and ſilver I am ſped,</l>
+               <l>and have fifty pound a year:</l>
+               <l>Then why ſhould I be ſingle,</l>
+               <l>I will not lead the life;</l>
+               <l>My gold and ſilver doth gingle,</l>
+               <l>a wooing i'le go for a wife.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy am I</hi>
+                  </l>
+                  <l>
+                     <hi>if I obtain this Bride,</hi>
+                  </l>
+                  <l>
+                     <hi>There's none can her come nigh</hi>
+                  </l>
+                  <l>
+                     <hi>in all the whole world beſide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A dainty fine Laſs I know</l>
+               <l>as ever <hi>England</hi> bred;</l>
+               <l>Her skin is as white as Snow</l>
+               <l>and her hair of a Crimſon red:</l>
+               <l>She lives but in our Town,</l>
+               <l>ſhe is vertuous, chaſte, and wiſe,</l>
+               <l>If I win her my joys are crown'd</l>
+               <l>beſides a matchleſs prize,</l>
+               <l>
+                  <hi>Sure thrice happy &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ile get her Fathers good will,</l>
+               <l>and Mothers too beſide;</l>
+               <l>Then next i'le try my skill</l>
+               <l>to win this lovely Bride:</l>
+               <l>I'le hug her and buſs her and kiſs her,</l>
+               <l>in her lies all my pride:</l>
+               <l>As <hi>Conventicle Dick</hi> ſerved his ſiſter,</l>
+               <l>and tother things too beſide.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She hath two hundred pound to her portion</l>
+               <l>and I a great deal of Land:</l>
+               <l>Thùs ſhall I come quick to promotion,</l>
+               <l>for love I take her by the hand:</l>
+               <l>But when I went to be married,</l>
+               <l>I was in the height of my pride;</l>
+               <l>Brave gallants on horſeback was carried,</l>
+               <l>to accompany me and my Bride.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy am I</hi>
+                  </l>
+                  <l>
+                     <hi>that I have obtained this Bride,</hi>
+                  </l>
+                  <l>
+                     <hi>There's none can to her come nigh</hi>
+                  </l>
+                  <l>in all the whole world beſide.</l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>O we had a gallant brave wedding indeed,</l>
+               <l>and delicate diſhes ſtore,</l>
+               <l>Thoſe were welcome which were of our biding,</l>
+               <l>but little we minded the poor:</l>
+               <l>O we had both Sack and Canary,</l>
+               <l>and the Muſick bravely did play,</l>
+               <l>O then I drank Sack and Sherry,</l>
+               <l>I thought it would never be day:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When I and my Bride was in bed</l>
+               <l>on my wedding day at night,</l>
+               <l>My fancies with pleaſures ſhe fed,</l>
+               <l>for I had my full delight:</l>
+               <l>She ſhewed me <hi>Venus</hi> School</l>
+               <l>and with me ſhe did daddle,</l>
+               <l>But I a young puny fool,</l>
+               <l>did quickly fall out of the ſaddle.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But then on the morrow morn,</l>
+               <l>O ſhe laughed me to ſcorn:</l>
+               <l>O ſhe thank ſack and canary in Silver,</l>
+               <l>and made me drink out of a horn,</l>
+               <l>But when our wedding did ceaſe</l>
+               <l>and our brave banquets were done,</l>
+               <l>My joys did quickly deceaſe,</l>
+               <l>and my ſorrows ſoon after begun,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>ſure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She told me ſhe would be Maſter,</l>
+               <l>and all the whole houſhold guide,</l>
+               <l>I told her it gave diſaſter,</l>
+               <l>ſhe ſaid it ſhould quickly be try'd:</l>
+               <l>Then againſt her I took ſtick,</l>
+               <l>thinking ſhe durſt not come nigh,</l>
+               <l>With a cudgel my bones ſhe did lick,</l>
+               <l>that for pardon I quickly did cry:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>ſure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She's grown ſo deviliſh curſt,</l>
+               <l>and in it ſhe takes a pride,</l>
+               <l>Makes nothing my head to burſt</l>
+               <l>and bang my bones beſide:</l>
+               <l>She makes me go to Plough,</l>
+               <l>ditch, hedge, and thraſh beſide,</l>
+               <l>And <hi>Jack</hi> come ſerve the <hi>Jow,</hi>
+               </l>
+               <l>to this ſlavery I'm ty'd,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>ſure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I do get up in a morn,</l>
+               <l>and for her make a fire,</l>
+               <l>I'm Cuckold and laught to ſcorn,</l>
+               <l>a holly-Crab pays my hire:</l>
+               <l>Then her clothes ſhe gets on her,</l>
+               <l>Sugar-ſops muſt ready be,</l>
+               <l>And I forſooth wait on her,</l>
+               <l>with vowing on my Knee:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At dinner ſhe is ſtout,</l>
+               <l>that by her I muſt now ſtand,</l>
+               <l>To wait with a Napkin on my arm,</l>
+               <l>and a Trencher in my hand:</l>
+               <l>Some deſire I may them pledge,</l>
+               <l>and ſhe to full of hate,</l>
+               <l>If I kiſs not my hand and make a leg,</l>
+               <l>ſhe lays me over the pate:</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ lines">
+                     <desc>〈1… lines〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Another thing troubles my head</l>
+               <l>and grieves me worſe than this,</l>
+               <l>When her Comrade is with her in bed</l>
+               <l>I muſt reach her the pot to piſs:</l>
+               <l>I muſt draw her a cup of long tripple,</l>
+               <l>if it be a cold Froſty night,</l>
+               <l>Or ſhe beats me as lame as a Cripple,</l>
+               <l>O the Bulls pizel doth me fright.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She kicks me about the houſe</l>
+               <l>and puts me in bodily fears,</l>
+               <l>I dare not ſay dun is the Mouſe,</l>
+               <l>ſhe pinches me through the ears.</l>
+               <l>She makes horns at me &amp; doth ſlight me,</l>
+               <l>and makes me a <hi>Jackanokes,</hi>
+               </l>
+               <l>She kicks me, ſhe pricks me, and bites me</l>
+               <l>O I feel her deviliſh ſtrokes.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I wiſh young-men hereafter</l>
+               <l>be not too quick in wooing their wives,</l>
+               <l>And beware of red-hair diſaſter,</l>
+               <l>or repent it all days of their lives:</l>
+               <l>Chuſe a wench of a dark brown hair.</l>
+               <l>and one of a middle ſize,</l>
+               <l>Cole black will fill thee with care,</l>
+               <l>and lodge others betwixt her thighs.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Sure thrice happy am I</hi>
+                  </l>
+                  <l>
+                     <hi>if I obtain this Bride,</hi>
+                  </l>
+                  <l>
+                     <hi>There's none can her come nigh</hi>
+                  </l>
+                  <l>
+                     <hi>in all the whole World beſide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <byline>By <hi>Abraham Miles.</hi>
+            </byline>
+         </div>
+         <div type="comment">
+            <p>The pretty by names this young woman hath for her Husband. <hi>A ſimple Simon,</hi> a <hi>Tom Nichols, Jack Adams,</hi> a Muddy-brain'd Cuckold, a Hopping <hi>Dick,</hi> a <hi>Nicknindigo</hi> the Devils Turnſpit. Here follows his potion of Dyet for ſeveral days of the week, of a <hi>Monday,</hi> if he riſeth not betimes in the morning, inſtead of poſſet ſhe comes up with a Holly Crab, and pays him about in his Shirt; on <hi>Tueſdays</hi> ſhe bangs his back with a good Cudgel; on <hi>Wedneſdays</hi> ſhe kicks his breech, and lugs his Ears, inſtead of feeding him with Beef and Souce; on <hi>Thurſdays, Fridays,</hi> and <hi>Saturdays,</hi> ſhe pays his back with a Bulls pizle, till he cries, <hi>O good Wife, I will never do ſo no more.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>Golden Ball</hi> in <hi>Py-corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
